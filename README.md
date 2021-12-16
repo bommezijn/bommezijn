@@ -3,7 +3,7 @@
 **I'm Nathan, currently a `student` in the Netherlands 👨🏻‍🎓**
 - 🔭 I’m currently working on **school**
 - 🌱 I’m currently learning **`Creative Coding && React`**
-- 📫 How to reach me: [🐥@nbmmzm](https://twitter.com/nbmmzn)
+- 📫 How to reach me: [✈️@bommezijn](https://t.me/bommezijn)
 - 🐕 📸  *[Dog lover](https://cln.sh/mvm25T)*
 ```JS
 let toolbelt = {
