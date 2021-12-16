@@ -3,7 +3,7 @@
 **I'm Nathan, currently a `student` in the Netherlands 👨🏻‍🎓**
 - 🔭 I’m currently working on **school**
 - 🌱 I’m currently learning **`Creative Coding && React`**
-- 📫 How to reach me: [✈️@bommezijn](https://t.me/bommezijn)
+- 📫 How to reach me: [![via telegram @bommezijn](https://shields.io/badge/@bommezijn-blue?logo=telegram&style=flat&color=21202F&labelColor=21202F)](https://t.me/bommezijn)
 - 🐕 📸  *[Dog lover](https://cln.sh/mvm25T)*
 ```JS
 let toolbelt = {
@@ -25,6 +25,8 @@ JSON         25 mins         █░░░░░░░░░░░░░░░░
 Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
+
+
 
 <!--
 **bommezijn/bommezijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
