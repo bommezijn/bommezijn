@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **school**
 - 🌱 I’m currently learning **`Creative Coding && React`**
 - 📫 How to reach me: [![via telegram @bommezijn](https://shields.io/badge/@bommezijn-blue?logo=telegram&style=flat&color=21202F&labelColor=21202F)](https://t.me/bommezijn)
+- 💼 I have a portfolio at [bommezijn.vercel.app](bommezijn.vercel.app)
 - 🐕 📸  *[Dog lover](https://cln.sh/mvm25T)*
 ```JS
 let toolbelt = {
@@ -11,7 +12,7 @@ let toolbelt = {
   libraries: ['React', 'd3js'],
   frameworks: ['Next.js', 'Tailwindcss'],
   backend: ['MongoDB, 'Firebase', 'Supabase'],
-  tools: ['GIT', 'Notion', 'VS code', 'vim', 'Figma']
+  tools: ['GIT', 'Notion', 'VS Code', 'vim', 'Figma']
 } 
 
 ```
