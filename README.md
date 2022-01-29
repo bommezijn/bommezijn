@@ -19,7 +19,7 @@ let toolbelt = {
 
 <!--START_SECTION:waka-->
 ```text
-CSS          5 mins          █████████████████████████   99.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
