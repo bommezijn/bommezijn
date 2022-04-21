@@ -10,7 +10,7 @@
 let toolbelt = {
   languages: ['JavaScript', 'CSS', 'HTML', 'SQL'],
   libraries: ['React', 'd3js'],
-  frameworks: ['Next.js', 'Tailwindcss'],
+  databases: ['Next.js', 'Tailwindcss'],
   backend: ['MongoDB, 'Firebase', 'Supabase'],
   tools: ['GIT', 'Notion', 'VS Code', 'vim', 'Figma']
 } 
