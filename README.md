@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **school**
 - 🌱 I’m currently learning **`Creative Coding && React`**
 - 📫 How to reach me: [![via telegram @bommezijn](https://shields.io/badge/@bommezijn-blue?logo=telegram&style=flat&color=21202F&labelColor=21202F)](https://t.me/bommezijn)
-- 💼 I have a portfolio at [bommezijn.vercel.app](bommezijn.vercel.app)
+- 💼 I have a portfolio at [bommezijn.me](https://https://www.bommezijn.me/)
 - 🐕 📸  *[Dog lover](https://cln.sh/mvm25T)*
 ```JS
 let toolbelt = {
