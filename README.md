@@ -4,14 +4,14 @@
 - 🔭 I’m currently working on **school**
 - 🌱 I’m currently learning **`Creative Coding && React`**
 - 📫 How to reach me: [![via telegram @bommezijn](https://shields.io/badge/@bommezijn-blue?logo=telegram&style=flat&color=21202F&labelColor=21202F)](https://t.me/bommezijn)
-- 💼 I have a portfolio at [bommezijn.me](https://https://www.bommezijn.me/)
+- 💼 I have a portfolio at [bommezijn.me](https://www.bommezijn.me/)
 - 🐕 📸  *[Dog lover](https://cln.sh/mvm25T)*
 ```JS
 let toolbelt = {
   languages: ['JavaScript', 'CSS', 'HTML', 'SQL'],
   libraries: ['React', 'd3js'],
-  databases: ['Next.js', 'Tailwindcss'],
-  backend: ['MongoDB, 'Firebase', 'Supabase'],
+  frameworks: ['Vuejs'],
+  databases: ['MongoDB, 'Firebase', 'Supabase'],
   tools: ['GIT', 'Notion', 'VS Code', 'vim', 'Figma']
 } 
 
