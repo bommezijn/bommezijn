@@ -20,9 +20,7 @@ let toolbelt = {
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 7 mins     █████████████████████████   99.58 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
