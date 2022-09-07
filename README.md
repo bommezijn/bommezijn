@@ -20,7 +20,7 @@ let toolbelt = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other        18 mins         ████████████████████████▒   97.64 %
 ```
 
 <!--END_SECTION:waka-->
