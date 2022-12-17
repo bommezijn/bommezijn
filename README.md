@@ -20,7 +20,7 @@ let toolbelt = {
 <!--START_SECTION:waka-->
 
 ```text
-Other        14 hrs 3 mins   ████████████▓░░░░░░░░░░░░   50.67 %
+Other        15 hrs 55 mins  ████████████████░░░░░░░░░   63.70 %
 ```
 
 <!--END_SECTION:waka-->
