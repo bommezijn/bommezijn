@@ -1,11 +1,7 @@
 ### Hi there 💣
 
-**I'm Nathan, currently a `student` in the Netherlands 👨🏻‍🎓**
-- 🔭 I’m currently working on **school**
-- 🌱 I’m currently learning **`Creative Coding && React`**
-- 📫 How to reach me: [![via telegram @bommezijn](https://shields.io/badge/@bommezijn-blue?logo=telegram&style=flat&color=21202F&labelColor=21202F)](https://t.me/bommezijn)
-- 💼 I have a portfolio at [bommezijn.me](https://www.bommezijn.me/)
-- 🐕 📸  *[Dog lover](https://cln.sh/mvm25T)*
+**I'm Nathan, currently a `developer` in the Netherlands**
+- 💼 I have a portfolio at [bommezijn.me](https://www.bommezijn.com/)
 ```JS
 let toolbelt = {
   languages: ['JavaScript', 'CSS', 'HTML', 'SQL'],
